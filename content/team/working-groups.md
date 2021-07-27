@@ -31,9 +31,8 @@ The data processing working group defines the processes for data ingestion and q
 The Phenotype Working Group ensures that the datasets hosted in AnVIL are incorporated in a manner that facilitates research driven by phenotypic questions.
 
 #### Co-Chairs
-- David Crosslin (EMERGE - UW)
+- David Crosslin (eMERGE - Tulane)
 - Robert Carroll (VUMC)
-- Kristin Wuichet (VUMC) organizer
 
 ## Portal Working Group
 The portal working group organizes and publishes AnVIL's website.
@@ -41,7 +40,7 @@ The portal working group organizes and publishes AnVIL's website.
 #### Co-Chairs
 - Benedict Paten (UCSC)
 - Mike Schatz (JHU)
-- Kevin Osborn (UCSC) organizer
+- Tim Harris (UCSC) organizer
 
 ## Outreach Working Group
 The Outreach working group provides training and support solutions for the AnVIL project.
@@ -62,7 +61,7 @@ AnVIL's technical working provides direction and recommendations to the develope
 ## Clinical Genomics Working Group
 
 #### Co-Chairs
-- Chris Shay (AHA)
+- Jennifer Hall (AHA)
 - Mike Schatz (JHU)
-- Julie Sizelove (AHA) organizer
+- Deena Zytnick (AHA) organizer
 
