@@ -8,6 +8,8 @@ title: "Data"
 
 <dashboard-anvil></dashboard-anvil>
 
+Please see my comments below on datasets that need to be updated in the Dataset Catalog
+
 ## Notes
 
 > For workspaces with no dbGaP Id, the dbGaP study registration is in progress. The dbGap Ids will be displayed once assigned by dbGaP. 
